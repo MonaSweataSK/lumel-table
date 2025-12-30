@@ -20,12 +20,12 @@
     {
       "id": "furniture",
       "label": "Furniture",
-      "value": 1000,
+      "value": 1100,
       "children": [
         {
           "id": "tables",
           "label": "Tables",
-          "value": 300
+          "value": 400
         },
         {
           "id": "chairs",
